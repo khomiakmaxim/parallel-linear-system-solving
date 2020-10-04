@@ -1,0 +1,13 @@
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\bin\Debug\netcoreapp3.1\SystemOfLinearEquations.exe
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\bin\Debug\netcoreapp3.1\SystemOfLinearEquations.deps.json
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\bin\Debug\netcoreapp3.1\SystemOfLinearEquations.runtimeconfig.json
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\bin\Debug\netcoreapp3.1\SystemOfLinearEquations.runtimeconfig.dev.json
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\bin\Debug\netcoreapp3.1\SystemOfLinearEquations.dll
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\bin\Debug\netcoreapp3.1\SystemOfLinearEquations.pdb
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\obj\Debug\netcoreapp3.1\SystemOfLinearEquations.csprojAssemblyReference.cache
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\obj\Debug\netcoreapp3.1\SystemOfLinearEquations.AssemblyInfoInputs.cache
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\obj\Debug\netcoreapp3.1\SystemOfLinearEquations.AssemblyInfo.cs
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\obj\Debug\netcoreapp3.1\SystemOfLinearEquations.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\obj\Debug\netcoreapp3.1\SystemOfLinearEquations.dll
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\obj\Debug\netcoreapp3.1\SystemOfLinearEquations.pdb
+C:\Users\Maksym\source\repos\SystemOfLinearEquations\obj\Debug\netcoreapp3.1\SystemOfLinearEquations.genruntimeconfig.cache
